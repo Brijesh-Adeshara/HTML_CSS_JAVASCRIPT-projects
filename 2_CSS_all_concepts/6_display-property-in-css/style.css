@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+p{
+    width: 50%;
+}
+h1{
+    font-size: 3em;
+}
+li{
+    display:inline ;
+    padding: 20px;
+}
+ul{
+    text-align: end;
+    padding: 30px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+li:hover{
+    color: pink;
+    font-size: 30px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+h1:hover{
+    color:violet;
+    text-decoration: underline;
+}

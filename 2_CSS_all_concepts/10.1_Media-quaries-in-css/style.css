@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:red ;
+}
+
+
+@media(min-width:400px) and (max-width:600px){
+    body{
+        background-color: green;
+    }
+} 
+
+ 

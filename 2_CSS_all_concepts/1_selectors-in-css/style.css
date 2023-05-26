@@ -1,0 +1,18 @@
+body{
+    font-size: 24px;
+}
+
+#first,#second{
+    color:red;
+}
+#second{
+    color: black;
+}
+
+
+
+.purple{
+    color:purple;
+    
+}
+
